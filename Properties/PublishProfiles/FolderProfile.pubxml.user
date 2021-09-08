@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Raul Martinez\source\repos\ClientTum\ClientTum\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-08-26T17:12:43.4238629Z;True|2021-08-25T14:38:19.8023611-05:00;True|2021-08-25T14:38:11.0227383-05:00;True|2021-08-25T10:40:40.6293683-05:00;True|2021-08-20T18:01:28.5978808-05:00;True|2021-08-19T11:37:30.8092024-05:00;True|2021-08-19T11:26:15.2590460-05:00;True|2021-08-18T13:34:40.4030431-05:00;True|2021-08-18T12:37:38.7875882-05:00;True|2021-08-18T11:14:55.6704472-05:00;</History>
+  </PropertyGroup>
+</Project>
